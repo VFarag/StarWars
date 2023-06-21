@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="PlateformeTIE5" size="0.210000 0.209525" />
+    <ImageTarget name="PlateformeTIE4" size="0.210000 0.209525" />
+    <ImageTarget name="PlateformeTIE3" size="0.210000 0.209525" />
+    <ImageTarget name="PlateformeTIE2" size="0.210000 0.209525" />
+    <ImageTarget name="PlateformeTIE" size="0.210000 0.209525" />
+  </Tracking>
+</QCARConfig>
